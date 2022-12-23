@@ -1,4 +1,4 @@
-from ST7735 import TFT, TFTColor    # 128*160
+from ST7735 import TFT    # 128*160
 from machine import SPI, Pin
 import utime
 import urandom
